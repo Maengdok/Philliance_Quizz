@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  margin-bottom: 50px;
+  font-size: 45px;
+}
+
+.Ranking {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+
+.form-group {
+  width: 80%;
+  margin: 0 0 50px 0;
+}
+
+input[type="email"] {
+  margin: 10px 0 10px 0;
+  width: 100%;
+  height: 35px;
+}
